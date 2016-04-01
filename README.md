@@ -27,8 +27,10 @@
 
 #第四次作业
 -完成第一章的练习题,选择第三道.并用matplotlib完成图片的各种细节.
-- [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107)
+- [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/README4.md)
 
 
 
 #第五次作业
+-继续完成第一章的练习题,选择第6道.熟练使用matplotlib完成图片细节.
+-[作业链接](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/readme5.md)
