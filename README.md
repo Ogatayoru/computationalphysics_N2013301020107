@@ -36,7 +36,7 @@
 - [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/readme5.md)
 
 #第六次作业
-- 作业L1 2.9题 [作业链接]()
-- 作业L2 2.10题强化版（引入风阻）————“辅助精确打击系统”[作业链接]()
-- 作业L3 发展“超级辅助精确打击系统”（考虑炮弹初始发射的时候发射角度误差1%，速度有5%的误差，风阻误差10%，可以考虑引入Coriolis force等，以炮弹落点与打击目标距离差平方均值最小为优胜）[作业链接]()
+- 作业L1 2.9题 [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/README6.md)
+- 作业L2 2.10题强化版（引入风阻）————“辅助精确打击系统”[作业链接]
+- 作业L3 发展“超级辅助精确打击系统”（考虑炮弹初始发射的时候发射角度误差1%，速度有5%的误差，风阻误差10%，可以考虑引入Coriolis force等，以炮弹落点与打击目标距离差平方均值最小为优胜）[作业链接]
 
