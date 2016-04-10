@@ -32,7 +32,7 @@
                                   vy(i+1)=vy(i)-g*dt-B'*v*vy(i)*dt      
                                 
 - 参数选择为vx=vy=700m/s,T0=288k,alpha=2.5,a=6.5*10^(-3),g=9.8
-- [代码在此]()
+- [代码在此](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/homework6.py)
 - ![这是对比图](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/homework6%281%29.png)
 
 ##小结
