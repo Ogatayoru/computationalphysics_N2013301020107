@@ -16,17 +16,18 @@
            考虑空气密度变换时:B不再是常数,而和高度有关,采取绝热近似,则B'=(1-ay/T0)^alpha * B(y=0)
            
 - 采用欧拉法:
-              只考虑重力时:x(i+1)=xi+vx(i)*dt
+
+               只考虑重力时:x(i+1)=xi+vx(i)*dt
                            vx(i+1)=vx(i)
                            y(i+1)=y(i)+vy(i)*dt
                            vy(i+1)=vy(i)-g*dt
                            
-              考虑风阻时:x(i+1)=xi+vx(i)*dt
+               考虑风阻时:x(i+1)=xi+vx(i)*dt
                           vx(i+1)=vx(i)-B*v*vx(i)*dt
                           y(i+1)=y(i)+vy(i)*dt
                           vy(i+1)=vy(i)-g*dt-B*v*vy(i)*dt
                           
-              考虑空气密度变化时: x(i+1)=xi+vx(i)*dt
+               考虑空气密度变化时: x(i+1)=xi+vx(i)*dt
                                   vx(i+1)=vx(i)-B'*v*vx(i)*dt
                                   y(i+1)=y(i)+vy(i)*dt
                                   vy(i+1)=vy(i)-g*dt-B'*v*vy(i)*dt      
