@@ -14,8 +14,11 @@
 - 为了减小欧拉法带来的误差,将步长设为0.1秒.
 - 取初始发射角为45度,初始发射高度为50米.为了看的更多的轨迹信息,落地点取为-100米
 - 取初速度为500mph,分别取不同角速度计算,结果如下图
-- [这是代码](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter2/homework7.py)
+- [这是代码1](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter2/homework7.py)
 - ![这是图片](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter2/homework7.png)
+- 在三维空间的运动:其他参数不变,将角速度改为沿z轴方向,棒球的运动就会呈现三维的螺旋,即所谓的弧线球.
+- [这是代码2](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter2/homework7%27.py)
+- ![这是图片](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter2/homework7%27.png)
 
 ##小结
 - 从计算结果可以看到不同的角速度导致的轨迹差别巨大.
