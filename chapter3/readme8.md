@@ -18,8 +18,10 @@
      thet-t对比图![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/problem3.8_1.png)
 - 2.初始值wo=0,thet0=60度,计算步长dt=0.01s
      thet-t对比图![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/problem3.8_2.png)
+- 3.初始值w0=0,thet0=179度,计算步长dt=0.01s
+     thet-t对比图![]()
 - 3.初始值w0=0,thet0=179.9度,计算步长dt=0.01s
-     thet-t对比图![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/problem3.8_4.png)
+     thet-t对比图![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/problem3.8_5.png)
      相图![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/%20phase%20diagram1.png)
 - 4.初始值w0=2,thet0=179度,计算步长dt=0.01s
      thet-t对比图![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/problem3.8_4.png)
