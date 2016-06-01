@@ -44,3 +44,8 @@
 - 作业L1 2.19题
 - 作业L2 使用vpython可视化炮弹发射或者棒球运动
 - [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter2/homework7.md)
+
+#第8次作业
+- 作业3.8题
+- [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/readme8.md)
+
