@@ -49,3 +49,7 @@
 - 作业3.8题
 - [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/readme8.md)
 
+#第9次作业
+- 混沌
+- 作业3.21题
+- [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/readme9.md)
