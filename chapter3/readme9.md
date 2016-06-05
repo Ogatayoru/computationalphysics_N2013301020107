@@ -6,7 +6,8 @@
 
 ##内容
 - 非线性阻尼驱动物理摆的运动方程为:![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/%E5%85%AC%E5%BC%8F5.png)
-- 用euler-cromer方法写成离散形式: 
+- 用euler-cromer方法写成离散形式:
+
                                     w(i+1)=w(i)-[(g/l)sin(theta)-qw(i)+F_dsin(Omega*t(i)]*dt
                                     theta(i+1)=theta(i)+omega(i+1)*dt
                                     t(i+1)=t(i)+dt
