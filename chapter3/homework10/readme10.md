@@ -7,31 +7,33 @@
 
 ##内容
 - 更进一步地台球可以简化为质点,质点与边界的碰撞可以由下述方程给出:
-  ![公式1](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/%E5%85%AC%E5%BC%8F1.png)
+ 
+    ![公式1](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/%E5%85%AC%E5%BC%8F1.png)
 - 可以求的反射后的速度:
-  ![公式2](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/%E5%85%AC%E5%BC%8F2.png)
+     ![公式2](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/%E5%85%AC%E5%BC%8F2.png)
                                                                 
 - [代码1](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/10.py)
+
 - 1.讨论矩形边界.
   (1)给出初始条件为vx=1,vy=2
 
-      ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/1%2C2.png)
+    ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/1%2C2.png)
       
   (2)给出初始条件为vx=1.32,vy=3
   
-      ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/1.32%2C3.png)
+    ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/1.32%2C3.png)
       
   (3)给出初始条件为vx=1.31,vy=3
   
-      ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/1.31%2C3.png)
+     ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/1.31%2C3.png)
       
   (4)给出初始条件为vx=1.33,vy=3
   
-      ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/1.33.png) 
+     ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/1.33.png) 
       
   (5))给出初始条件为vx=1.32,vy=7^0.5
   
-      ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/1.32%2C7**0.5.png)
+     ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter3/homework10/1.32%2C7**0.5.png)
       
   
 - 2.讨论圆形边界和体育场边界
