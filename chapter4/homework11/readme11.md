@@ -24,7 +24,8 @@
 
     ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework11/11.1.png)
     
-- 偏离平方反比定律时,讨论不同偏离带来的影响:
+- 偏离平方反比定律时,讨论不同偏离带来的影响[代码2](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework11/11.2.py):
+
    n=1.97时,不同离心率的情况:
    ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework11/11.2.png)
    
