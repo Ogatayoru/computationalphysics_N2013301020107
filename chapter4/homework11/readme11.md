@@ -8,12 +8,15 @@
 
 ##内容
 - newton万有引力定律方程为:
-    ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework11/%E5%85%AC%E5%BC%8F1.png)
+
+     ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework11/%E5%85%AC%E5%BC%8F1.png)
     
 - 与牛顿第二定律结合,可以得到行星的运动轨迹.而对于二体问题可以引入约化质量u,使二体问题化为单体问题.可以精确求解:
+
     ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework11/%E5%85%AC%E5%BC%8F2.png)
     
 - 则可以导出轨道方程为:
+
     ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework11/%E5%85%AC%E5%BC%8F3.png)
     
 - 其中e为离心率,与系统的角动量和能量相关.e大于1为双曲线轨道,e等于1为抛物线轨道,e小于1为椭圆轨道.
