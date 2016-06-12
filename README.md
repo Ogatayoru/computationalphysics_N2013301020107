@@ -63,5 +63,5 @@
 - [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework11/readme11.md)
  
 #第十二次作业
-- 小行星问题
+- "小行星带"问题
 - [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework12/readme12.md)
