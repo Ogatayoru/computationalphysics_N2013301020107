@@ -18,7 +18,7 @@
 - 上述只是一个试探,为了更加清楚的了解木星在多大距离上对小行星有明显影响,我们作出小行星运动的振幅和距离的共振曲线[代码2](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework12/12.2.py):
                ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework12/12.2.png)
 
--  可以明显看出在3.3左右共振非常明显
+-  可以明显看出在3.335左右共振非常明显
 -  给出其他位置处的小行星运动:
                 ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter4/homework12/12.3.png)
 
