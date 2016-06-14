@@ -20,6 +20,7 @@
  ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/14.3.png)
             
 - 2.波包叠加的动态图像[代码2](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/14.1.py):
+                                                                                                                              
 ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/14.1.gif)
 
 
