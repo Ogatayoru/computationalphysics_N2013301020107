@@ -69,3 +69,7 @@
 #第十三次作业
 - 亥姆霍兹线圈周围的磁场问题
 - [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter5/readme13.md)
+
+#第十四次作业
+- 弦上的机械波
+- [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/readme14.md)
