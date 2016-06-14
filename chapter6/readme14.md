@@ -9,19 +9,17 @@
 
 ##内容
 - 弦上的波动方程为:
-
-                 ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/%E6%96%B9%E7%A8%8B1.png)
+    ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/%E6%96%B9%E7%A8%8B1.png)
 
 - 化为差分方程进行数值求解:
-                 ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/%E6%96%B9%E7%A8%8B2.png)
+    ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/%E6%96%B9%E7%A8%8B2.png)
                  
 - 1.考虑高斯型波包的运动[代码1](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/14.3.py):
 
-                 ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/14.3.png)
+     ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/14.3.png)
             
 - 2.波包叠加的动态图像[代码2](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/14.1.py):
-
-                 ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/14.1.gif)
+     ![](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/14.1.gif)
 ##结论
 - 容易看出,在边界出有半波损失,与经典力学中的结论一致.
 
