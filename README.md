@@ -71,3 +71,7 @@
 #第十四次作业
 - 弦上的机械波
 - [作业链接](https://github.com/computationalphysics2013301020107/computationalphysics_N2013301020107/blob/master/chapter6/readme14.md)
+
+#期末作业
+- 史瓦西时空中粒子的运动
+- [作业链接](https://www.zybuluo.com/axbzsf/note/412887)
